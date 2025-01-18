@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://danielc.dev/fudge/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://danielc.dev/fudge/about/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://danielc.dev/fudge/dev/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://danielc.dev/fudge/help/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://danielc.dev/fudge/blog/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://danielc.dev/fudge/blog/2024/10/31/020-update/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://danielc.dev/fudge/blog/archive/2024/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://danielc.dev/fudge/blog/category/update/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+</urlset>

@@ -1,0 +1,6 @@
+Fudge is an unofficial open-source re-implementation of Fujifilm's Camera Connect app. This is a very time consuming and experimental project, so the scope is limited to a basic image gallery, and image downloader.
+
+*No bluetooth support. Will eventually be implemented, so stay tuned.*
+Tested on X-A2 (2015) only, other cams have experimental implementations.
+
+Browse the source code: https://github.com/petabyt/fujiapp
